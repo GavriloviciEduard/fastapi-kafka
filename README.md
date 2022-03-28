@@ -1,2 +1,1 @@
-# fastapi-kafka
-Kafka PoC using FastAPI
+#  Kafka PoC using FastAPI 
